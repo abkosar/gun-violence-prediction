@@ -3,4 +3,4 @@ Gun violence prediction with data from https://www.kaggle.com/jameslko/gun-viole
 
 ## Installing the conda environment
 
-To install the conda environment to your local machine, after cloning the repo, run `conda env create --file=environment.yml` from the command line.
+To install the conda environment to your local machine, after cloning the repo, run `conda env create --file=environment.yml` from the terminal.
